@@ -29,7 +29,7 @@
 
 ● 언어: Java, Python, PHP
 
-● 라이브러리/API : TensorFlow, CAMERA2APIs
+● 라이브러리/API : TensorFlow, Camera2 APIs
 
 
 스크린샷
